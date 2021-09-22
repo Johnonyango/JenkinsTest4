@@ -12,3 +12,6 @@ Browser("FundMaster | Pension Administr_4").Page("FundMaster | Pension Administr
  @@ script infofile_;_ZIP::ssf34.xml_;_
 Browser("FundMaster | Pension Administr_5").Page("FundMaster | Pension Administr").WebElement("Import Members").Check CheckPoint("Import Members_2") @@ script infofile_;_ZIP::ssf35.xml_;_
 
+Browser("FundMaster | Pension Administr_6").Page("FundMaster | Pension Administr").WebElement("Movement Processing").Check CheckPoint("Movement Processing") @@ script infofile_;_ZIP::ssf36.xml_;_
+
+
